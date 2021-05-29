@@ -1,2 +1,3 @@
+updating this file
 Hi
-scriot file
+script file
